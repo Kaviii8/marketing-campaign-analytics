@@ -1,0 +1,27 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+.env.*
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Trained models
+*.pkl
+*.joblib
+
+# Editor settings
+.vscode/
+
+# Temporary files
+.DS_Store
+Thumbs.db
