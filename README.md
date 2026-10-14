@@ -144,9 +144,7 @@ Developed an interactive Power BI dashboard to communicate marketing performance
 
 **Dashboard Preview**
 
-Add your exported Power BI dashboard screenshot here:
-
-`![Marketing Campaign Dashboard](dashboard/dashboard_preview.png)`
+![Marketing Campaign Dashboard](dashboard/dashboard_preview.png)
 
 The preview will appear once the image is saved at that location in the repository.
 
